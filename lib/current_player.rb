@@ -24,3 +24,5 @@ end
 
 a= turn_count(x)
 puts a
+b = current_player(x)
+puts b
